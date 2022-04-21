@@ -1,0 +1,14 @@
+e:\мои документы\visual studio 2010\Projects\Генератор паролей\Генератор паролей\bin\Debug\Генератор паролей.exe
+e:\мои документы\visual studio 2010\Projects\Генератор паролей\Генератор паролей\bin\Debug\Генератор паролей.pdb
+e:\мои документы\visual studio 2010\Projects\Генератор паролей\Генератор паролей\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\мои документы\visual studio 2010\Projects\Генератор паролей\Генератор паролей\obj\x86\Debug\Генератор_паролей.Form1.resources
+e:\мои документы\visual studio 2010\Projects\Генератор паролей\Генератор паролей\obj\x86\Debug\Генератор_паролей.Properties.Resources.resources
+e:\мои документы\visual studio 2010\Projects\Генератор паролей\Генератор паролей\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\мои документы\visual studio 2010\Projects\Генератор паролей\Генератор паролей\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\мои документы\visual studio 2010\Projects\Генератор паролей\Генератор паролей\obj\x86\Debug\Генератор паролей.exe
+e:\мои документы\visual studio 2010\Projects\Генератор паролей\Генератор паролей\obj\x86\Debug\Генератор паролей.pdb
+e:\мои документы\visual studio 2010\Projects\Генератор паролей\Генератор паролей\obj\x86\Debug\Генератор_паролей.FormSetting.resources
+f:\Projects\Генератор паролей\Генератор паролей\obj\x86\Debug\Генератор паролей.exe
+f:\Projects\Генератор паролей\Генератор паролей\obj\x86\Debug\Генератор паролей.pdb
+f:\Мои документы\Проекты\Projects\Генератор паролей\Генератор паролей\obj\x86\Debug\Генератор паролей.exe
+f:\Мои документы\Проекты\Projects\Генератор паролей\Генератор паролей\obj\x86\Debug\Генератор паролей.pdb
